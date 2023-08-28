@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    base:'aaa',
+    base:'/aaa/',
     themeConfig: {
         sidebar: [
           {
